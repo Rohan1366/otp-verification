@@ -104,7 +104,7 @@ This note provides users with the option to use their own Twilio credentials to 
     - `TWILIO_AUTH_TOKEN`: Your Twilio Auth Token.
     - `TWILIO_PHONE_NUMBER`: Your Twilio phone number.
 
-- If you are using a Twilio trial account, you can send a limited number of OTP requests. You can use the provided phone numbers `+8764618424` and `+9461686381` for testing OTP sending in a trial account.
+
 
 ## Deployment
 
