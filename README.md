@@ -108,7 +108,7 @@ This note provides users with the option to use their own Twilio credentials to 
 
 ## Deployment
 
-This project is deployed at the following URL: [Cuvette Project Deployment](https://kind-gold-yak-coat.cyclic.cloud/)
+This project is deployed at the following URL: [Cuvette Project Deployment](https://verification2-cgi4.onrender.com/)
 
 ## License
 
