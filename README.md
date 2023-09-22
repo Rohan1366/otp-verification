@@ -87,7 +87,7 @@ This note provides users with the option to use their own Twilio credentials to 
     ```json
     {
       "mobileNumber": "+918530528162",
-      "otp": "1234"
+      "otp": ""
     }
     ```
     - Ensure that the `mobileNumber` is in a valid format with the country code, e.g., `+918764618424`.
