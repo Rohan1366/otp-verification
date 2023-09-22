@@ -2,7 +2,7 @@
 
 This repository contains the source code for the Cuvette project, an application that handles user registration and OTP verification via SMS using Twilio.
 
-**Deployment Link:** [Cuvette Project Deployment](https://kind-gold-yak-coat.cyclic.cloud/)
+**Deployment Link:** [Cuvette Project Deployment](https://verification2-cgi4.onrender.com/)
 
 ## Table of Contents
 
